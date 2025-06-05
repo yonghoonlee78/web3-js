@@ -1,0 +1,8 @@
+{
+    "chainId": "1",
+    "account": {
+      "address": "0x594A3627C5b59C1a214C8B8100484a0c0556b63f",
+      "privateKey": "N/A (Managed by Ganache)"
+    },
+    "balance": "100"
+  }

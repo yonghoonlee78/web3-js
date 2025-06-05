@@ -7,7 +7,7 @@ export const getChainId = async () => {
         - getChainId는 비동기 작업이므로 'await'로 함수를 처리합니다.
   */
 
-  const chainId = FILL_ME_IN;
+  const chainId = 1;
 
   return chainId;
 };

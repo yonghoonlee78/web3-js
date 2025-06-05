@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Insu-Lee/web3-js#readme",
   "description": "",
   "devDependencies": {
-    "@types/node": "^22.13.1",
+    "@types/node": "^22.15.29",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
   },
